@@ -1,2 +1,2 @@
-# EngenhariaDeSoftware2020-2
-Back end do Site 
+# Front end e Back end do Site
+# Arquitetura MVC
